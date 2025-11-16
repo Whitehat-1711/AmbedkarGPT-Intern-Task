@@ -199,6 +199,6 @@ This project is created as part of the Kalpit Pvt Ltd AI Intern hiring assignmen
 
 ---
 
-**Created by**: [Your Name]  
+**Created by**: Nishant Gosavi  
 **Assignment**: AI Intern Hiring - Phase 1  
 **Company**: Kalpit Pvt Ltd, UK
